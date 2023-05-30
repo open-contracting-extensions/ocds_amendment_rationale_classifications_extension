@@ -1,1 +1,17 @@
-{}
+{
+  "definitions": {
+    "Amendment": {
+      "properties": {
+        "rationaleClassifications": {
+          "title": "Rationale classifications",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Classification"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      }
+    }
+  }
+}
