@@ -5,11 +5,13 @@
         "rationaleClassifications": {
           "title": "Rationale classifications",
           "type": "array",
+          "description": "Classifications of the rationale for the amendment.",
           "items": {
             "$ref": "#/definitions/Classification"
           },
           "minItems": 1,
-          "uniqueItems": true
+          "uniqueItems": true,
+          "wholeListMerge": true
         }
       }
     }
