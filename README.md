@@ -4,7 +4,7 @@ Adds a field to the `Amendment` object to classify the rationale for the amendme
 
 ## Legal context
 
-In the European Union, this extension's fields correspond to [eForms BT-140 (Change Reason Code) and BT-200 (Modification Reason Code)](https://github.com/eForms/eForms). For correspondences to eForms fields, see [OCDS for eForms](https://standard.open-contracting.org/profiles/eforms/latest).
+In the European Union, this extension's fields correspond to [eForms BT-140 (Change Reason Code) and BT-200 (Modification Reason Code)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/). For correspondences to eForms fields, see [OCDS for eForms](https://standard.open-contracting.org/profiles/eforms/latest).
 
 ## Example
 
