@@ -18,7 +18,7 @@ In the European Union, this extension's fields correspond to [eForms BT-140 (Cha
           {
             "id": "update-add",
             "description": "Information updated",
-            "scheme": "change-corrig-justification"
+            "scheme": "eu-change-corrig-justification"
           }
         ]
       }

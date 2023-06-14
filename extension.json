@@ -8,6 +8,9 @@
   "documentationUrl": {
     "en": "https://github.com/open-contracting-extensions/ocds_amendment_rationale_classifications_extension"
   },
+  "codelists": [
+    "+itemClassificationScheme.csv"
+  ],
   "schemas": [
     "release-schema.json"
   ],
