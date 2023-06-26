@@ -9,9 +9,9 @@
           "items": {
             "$ref": "#/definitions/Classification"
           },
-          "minItems": 1,
+          "wholeListMerge": true,
           "uniqueItems": true,
-          "wholeListMerge": true
+          "minItems": 1
         }
       }
     }
