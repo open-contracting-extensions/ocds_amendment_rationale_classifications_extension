@@ -1,6 +1,6 @@
 # Amendment rationale classifications
 
-Adds a field to the `Amendment` object to classify the rationale for the amendment.
+Adds a field to the amendment object to classify its rationale.
 
 ## Legal context
 

@@ -4,8 +4,8 @@
       "properties": {
         "rationaleClassifications": {
           "title": "Rationale classifications",
+          "description": "The classifications of the rationale.",
           "type": "array",
-          "description": "Classifications of the rationale for the amendment.",
           "items": {
             "$ref": "#/definitions/Classification"
           },
