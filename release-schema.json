@@ -1,1 +1,19 @@
-{}
+{
+  "definitions": {
+    "Amendment": {
+      "properties": {
+        "rationaleClassifications": {
+          "title": "Rationale classifications",
+          "description": "The classifications of the rationale.",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Classification"
+          },
+          "minItems": 1,
+          "uniqueItems": true,
+          "wholeListMerge": true
+        }
+      }
+    }
+  }
+}
