@@ -30,3 +30,11 @@ In the European Union, this extension's fields correspond to [eForms BT-140 (Cha
 ## Issues
 
 Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.
+
+## Changelog
+
+### 2025-02-11
+
+* `+itemClassificationScheme.csv`:
+  * Update title and source for 'eu-change-corrig-justification'
+  * Add 'eu-modification-justification'
