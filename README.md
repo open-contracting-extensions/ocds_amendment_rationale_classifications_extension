@@ -35,6 +35,6 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ### 2025-02-11
 
-* `+itemClassificationScheme.csv`:
-  * Update title and source for 'eu-change-corrig-justification'
+* Update the `+itemClassificationScheme.csv` codelist:
+  * Fix the Title, Description and Source of 'eu-change-corrig-justification'
   * Add 'eu-modification-justification'
